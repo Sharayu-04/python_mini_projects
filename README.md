@@ -1,2 +1,10 @@
-# python_mini_projects
-A collection of beginner to intermediate-level Python mini projects, including games, utilities, and logic-based programs. Useful for strengthening Python basics and object-oriented programming.
+## 🎲 Dice Simulator (Mini Project)
+A simple Python program that simulates rolling a six-sided dice.  
+The user can keep rolling by entering 'yes' and exit by entering 'no'.  
+Uses the `random` module and includes meaningful comments for better understanding.
+
+🔧 Technologies Used:
+- Python
+- Random module
+
+👩‍💻 Author: Sharayu Ambagade
